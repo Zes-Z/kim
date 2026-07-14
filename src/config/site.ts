@@ -11,13 +11,14 @@ export const siteConfig = {
       'zh-cn': '生命只需要呼吸'
     },
     description: {
-      en: 'Writing and notes — a compact space for ideas that keep their shape.',
-      'zh-cn': '记录与笔记 —— 一个保持克制、注重结构感的内容空间。'
+      en: 'Notes and Reflections — a compact space for ideas that keep their shape.',
+      'zh-cn': '记录与感想 —— 一个保持克制、注重结构感的内容空间。'
     },
     avatar: '/favicon.ico',
     social: [
       { name: 'GitHub', url: 'https://github.com/', icon: 'simple-icons:github' },
-      { name: 'Email', url: 'mailto:hello@example.com', icon: 'lucide:mail' }
+      { name: 'Email', url: 'mailto:hello@example.com', icon: 'lucide:mail' },
+      
     ]
   },
   contentWidth: '56rem',
