@@ -16,9 +16,9 @@ export const siteConfig = {
     },
     avatar: '/favicon.ico',
     social: [
-      { name: 'GitHub', url: 'https://github.com/', icon: 'simple-icons:github' },
+      // { name: 'GitHub', url: 'https://github.com/', icon: 'simple-icons:github' },
       { name: 'Email', url: 'mailto:hello@example.com', icon: 'lucide:mail' },
-      
+
     ]
   },
   contentWidth: '56rem',
